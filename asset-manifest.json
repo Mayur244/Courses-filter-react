@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mayur244/Courses-filter-react.git/static/css/main.744fe7ae.css",
+    "main.js": "/Mayur244/Courses-filter-react.git/static/js/main.8c17f3e3.js",
+    "index.html": "/Mayur244/Courses-filter-react.git/index.html",
+    "main.744fe7ae.css.map": "/Mayur244/Courses-filter-react.git/static/css/main.744fe7ae.css.map",
+    "main.8c17f3e3.js.map": "/Mayur244/Courses-filter-react.git/static/js/main.8c17f3e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.744fe7ae.css",
+    "static/js/main.8c17f3e3.js"
+  ]
+}
